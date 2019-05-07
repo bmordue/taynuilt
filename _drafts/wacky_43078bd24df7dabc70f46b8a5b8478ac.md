@@ -1,0 +1,9 @@
+---
+title: chairs/furniture with animal features
+layout: post
+date: 201-0-1 T:5:4
+tags: [wacky]
+---
+## chairs/furniture with animal features
+
+-legs with hooves

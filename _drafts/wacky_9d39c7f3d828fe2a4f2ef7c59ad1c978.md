@@ -1,0 +1,9 @@
+---
+title: mocha "describe" cannot have an empty/missing implementation?
+layout: post
+date: 201-0-1 T:5:4
+tags: [wacky]
+---
+## mocha "describe" cannot have an empty/missing implementation?
+
+it("has not been implemented yet")\;is fine
