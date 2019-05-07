@@ -1,0 +1,2342 @@
+CalendarObject {
+  data: {
+    href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMA.ics',
+    props: {
+      getetag: '"2c0ca8aa5698f3240f28d1113b5be0dd"',
+      calendarData: 'BEGIN:VCALENDAR\r' +
+        '\nVERSION:2.0\r' +
+        '\nCALSCALE:GREGORIAN\r' +
+        '\nPRODID:-//scripted//EN\r' +
+        '\nBEGIN:VTODO\r' +
+        '\nDTSTAMP:20161121T220214Z\r' +
+        '\nSTATUS:needsAction\r' +
+        '\nSUMMARY:digitize VHS tapes for M+D\r' +
+        '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMA\r' +
+        '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMA\r' +
+        '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+        '\n ' +
+        'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMA"\r' +
+        '\nEND:VTODO\r' +
+        '\nEND:VCALENDAR\r' +
+        '\n'
+    }
+  },
+  etag: '"2c0ca8aa5698f3240f28d1113b5be0dd"',
+  url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMA.ics',
+  calendar: Calendar {
+    data: {
+      href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/',
+      props: {
+        displayname: 'Laptop',
+        getctag: '"2588c33869ee21c9a01e9bae31c2bf78"',
+        resourcetype: [
+          'calendar',
+          'collection'
+        ],
+        supportedCalendarComponentSet: [
+          'VTODO'
+        ],
+        syncToken: 'http://radicale.org/ns/sync/c72f3e765c57dcab89746004fb8c308f'
+      }
+    },
+    objects: [
+      [Circular],
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTA3MjczNDk.ics',
+          props: [Object]
+        },
+        etag: '"5ea69ecbbce57407993e998eb2d499b2"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTA3MjczNDk.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140505T210544Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:add coveralls.io to gh projects\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTA3MjczNDk\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTA3MjczNDk\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTA3MjczNDk"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo3NjY3MjQ3NTA.ics',
+          props: [Object]
+        },
+        etag: '"883525262a5eeafeaad82d04d3939ce2"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo3NjY3MjQ3NTA.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20141110T120106Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:ghost or similar template for landing ' +
+          'page -> vps\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo3NjY3MjQ3NTA\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo3NjY3MjQ3NTA\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo3NjY3MjQ3NTA"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxODA5MzA2NTAx.ics',
+          props: [Object]
+        },
+        etag: '"979557a991d67aa13d1963b323377b61"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxODA5MzA2NTAx.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDESCRIPTION:http://ttrss-bmordue.rhcloud.com/https://openshift.redhat.com/a\r' +
+          '\n ' +
+          'pp/console/application/532056e6e0b8cdca070002fc-ttrssPostgreSQL ' +
+          '9.2 databa\r' +
+          '\n se added.  Please make note of these credentials:  ' +
+          ' Root User: adminkpnm2h\r' +
+          '\n v   Root Password: gXqblvRG8135   Database Name: ' +
+          'ttrssConnection URL: post\r' +
+          '\n ' +
+          'gresql://$OPENSHIFT_POSTGRESQL_DB_HOST:$OPENSHIFT_POSTGRESQL_DB_PORTTo ' +
+          'sch\r' +
+          '\n edule your scripts to run on a periodic basis\r' +
+          '\nDTSTAMP:20140527T202420Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:OpenShift\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxODA5MzA2NTAx\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxODA5MzA2NTAx\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxODA5MzA2NTAx"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozNjUwNTY5MA.ics',
+          props: [Object]
+        },
+        etag: '"2f3b23569240a8de428fbcce73c59c6b"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozNjUwNTY5MA.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20150216T172420Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:https://github.com/kosmtik/kosmtik\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozNjUwNTY5MA\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozNjUwNTY5MA\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozNjUwNTY5MA"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozODQ3NTYwMw.ics',
+          props: [Object]
+        },
+        etag: '"70993c1cb81eb098fe20076568af88c2"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozODQ3NTYwMw.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140131T173605Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:build ebook based on insta search results \r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozODQ3NTYwMw\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozODQ3NTYwMw\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozODQ3NTYwMw"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/d7296901-1907-4b79-899a-0fd22f93f13e.ics',
+          props: [Object]
+        },
+        etag: '"86dd39134d4d01ef7f6f34953fd6ba77"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/d7296901-1907-4b79-899a-0fd22f93f13e.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nCREATED:20181203T130006Z\r' +
+          '\nDESCRIPTION:mem word: LaSaraille\\nmem phrase: ' +
+          'Lily is two\\npass: birthday\r' +
+          '\nDTSTAMP:20181203T130021Z\r' +
+          '\nLAST-MODIFIED:20181203T130006Z\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:moore\r' +
+          '\nUID:d7296901-1907-4b79-899a-0fd22f93f13e\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNzc0NzgzOTI.ics',
+          props: [Object]
+        },
+        etag: '"7dedfcf6822a064be4b07f6ca8d99d50"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNzc0NzgzOTI.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20160103T113011Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:twidere: message to user for failed ' +
+          'authentication\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNzc0NzgzOTI\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNzc0NzgzOTI\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNzc0NzgzOTI"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDAxODkzNjM3.ics',
+          props: [Object]
+        },
+        etag: '"6103b3999e544ba7f5f16f2825343cd6"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDAxODkzNjM3.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20150216T183807Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:webcam for west coast of Norway\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDAxODkzNjM3\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDAxODkzNjM3\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDAxODkzNjM3"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/d30323fd-2b59-452b-a03d-9585649769c0.ics',
+          props: [Object]
+        },
+        etag: '"36c19351e0b2948c27a3469b3abb45ae"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/d30323fd-2b59-452b-a03d-9585649769c0.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nCREATED:20181106T213508Z\r' +
+          '\nDTSTAMP:20181106T214216Z\r' +
+          '\nLAST-MODIFIED:20181106T213508Z\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:SD card for DSlite\r' +
+          '\nUID:d30323fd-2b59-452b-a03d-9585649769c0\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMzUyNzU2MjA0.ics',
+          props: [Object]
+        },
+        etag: '"642b7fbda687605cdd50dd05cc1ea53c"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMzUyNzU2MjA0.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          "\nDESCRIPTION:* Instap creates epubs with escaped '&' " +
+          '(eg in Archive All link\r' +
+          '\n ). Is this necessary? (Bit of a pain\r' +
+          '\nDTSTAMP:20140204T120821Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:Instapaper epub improvements\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMzUyNzU2MjA0\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMzUyNzU2MjA0\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMzUyNzU2MjA0"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDc4NDQxMjYx.ics',
+          props: [Object]
+        },
+        etag: '"02cc82c22c25caf890a7ad4daf3d70eb"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDc4NDQxMjYx.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20150216T172027Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:http://chimera.labs.oreilly.com/books/1230000000345/ch03.html\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDc4NDQxMjYx\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDc4NDQxMjYx\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDc4NDQxMjYx"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDkxNjQ4MzMw.ics',
+          props: [Object]
+        },
+        etag: '"c5048170403411ebbd1e0bcb01a87441"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDkxNjQ4MzMw.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20181213T130532Z\r' +
+          '\nLAST-MODIFIED:20181213T130218Z\r' +
+          '\nSEQUENCE:1\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:T61 fan fix\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDkxNjQ4MzMw\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/be7ce117-2ba7-4a4c-9f8c-b0a9232da779.ics',
+          props: [Object]
+        },
+        etag: '"d7f613238949dc24a6b5439fec56a2d3"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/be7ce117-2ba7-4a4c-9f8c-b0a9232da779.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nCREATED:20181105T205156Z\r' +
+          '\nDTSTAMP:20181106T194608Z\r' +
+          '\nLAST-MODIFIED:20181105T205156Z\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:Where is gollum wiki?\r' +
+          '\nUID:be7ce117-2ba7-4a4c-9f8c-b0a9232da779\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNTk5NjY3OTM3.ics',
+          props: [Object]
+        },
+        etag: '"4215daba7c23db70c4aa42c199351979"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNTk5NjY3OTM3.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20130711T191807Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:Check my Android dev dashboard\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNTk5NjY3OTM3\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNTk5NjY3OTM3\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNTk5NjY3OTM3"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNzc1MzI0ODI.ics',
+          props: [Object]
+        },
+        etag: '"000ad1fa2f5aa3a21a16ac665893ccf0"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNzc1MzI0ODI.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140605T110852Z\r' +
+          '\nSTATUS:needsAction\r' +
+          "\nSUMMARY:DAVDroid: don't allow spaces in text " +
+          'input field in adding new acco\r' +
+          '\n unt\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNzc1MzI0ODI\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNzc1MzI0ODI\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNzc1MzI0ODI"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxODI2NDI0ODQ1.ics',
+          props: [Object]
+        },
+        etag: '"06e23cb4c3b2e800785b76a46744fc6c"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxODI2NDI0ODQ1.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDESCRIPTION:add notes on nginx...\r' +
+          '\nDTSTAMP:20150216T150603Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:https://stackoverflow.com/questions/154441/set-up-an-http-proxy-to-\r' +
+          '\n insert-a-header\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxODI2NDI0ODQ1\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxODI2NDI0ODQ1\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxODI2NDI0ODQ1"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/a855f3da-cb99-4711-b1e3-3ec2d48771c7.ics',
+          props: [Object]
+        },
+        etag: '"f91ffd51387593d091c1f8b699ec2d77"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/a855f3da-cb99-4711-b1e3-3ec2d48771c7.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nCREATED:20190212T082008Z\r' +
+          '\nDTSTAMP:20190212T082052Z\r' +
+          '\nLAST-MODIFIED:20190212T082008Z\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:DL all humble ebooks/pdfs\r' +
+          '\nUID:a855f3da-cb99-4711-b1e3-3ec2d48771c7\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/63da4a1c-c4a9-4290-99a9-2d12db61d7e3.ics',
+          props: [Object]
+        },
+        etag: '"a8f08f2b97d88b023c10f13168e75524"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/63da4a1c-c4a9-4290-99a9-2d12db61d7e3.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nCREATED:20181106T212923Z\r' +
+          '\nDTSTAMP:20181106T214215Z\r' +
+          '\nLAST-MODIFIED:20181106T212923Z\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:leave instapaper\r' +
+          '\nUID:63da4a1c-c4a9-4290-99a9-2d12db61d7e3\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTY4NzU1NTk3.ics',
+          props: [Object]
+        },
+        etag: '"d6fe4e955b135dca9ef93d954531c3aa"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTY4NzU1NTk3.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140527T202413Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:Localize affiliate sites\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTY4NzU1NTk3\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTY4NzU1NTk3\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTY4NzU1NTk3"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozMDQ3OTY1MjI.ics',
+          props: [Object]
+        },
+        etag: '"2cb3203571ff65d8fb7b80599d9a2736"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozMDQ3OTY1MjI.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20151126T130225Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:timelapse to ~youtube\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozMDQ3OTY1MjI\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozMDQ3OTY1MjI\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozMDQ3OTY1MjI"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo0.ics',
+          props: [Object]
+        },
+        etag: '"7616b50951049d599cc4295164093a6f"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo0.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nCOMPLETED:20190324T090745Z\r' +
+          '\nDTSTAMP:20190324T090811Z\r' +
+          '\nLAST-MODIFIED:20190324T090745Z\r' +
+          '\nPERCENT-COMPLETE:100\r' +
+          '\nSEQUENCE:1\r' +
+          '\nSTATUS:COMPLETED\r' +
+          '\nSUMMARY:www.provjoe.com (photos)\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo0\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMjgyNDMxNzEw.ics',
+          props: [Object]
+        },
+        etag: '"650129c5afa971452d406a91500ed2e2"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMjgyNDMxNzEw.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20160103T113317Z\r' +
+          '\nSTATUS:needsAction\r' +
+          "\nSUMMARY:platforms for 'open source' book writing? " +
+          '(github??) cf oreilly rou\r' +
+          '\n gh cuts\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMjgyNDMxNzEw\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMjgyNDMxNzEw\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMjgyNDMxNzEw"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo4OTUzMjc2NDM.ics',
+          props: [Object]
+        },
+        etag: '"370be67de5fd0854c9fced4fe7e8af51"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo4OTUzMjc2NDM.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20181213T090134Z\r' +
+          '\nLAST-MODIFIED:20181213T082918Z\r' +
+          '\nSEQUENCE:1\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:add some content to benmordue.co.uk\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo4OTUzMjc2NDM\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo5ODg0Nzk2MjU.ics',
+          props: [Object]
+        },
+        etag: '"162ba84674ccc48dd8072082ef496024"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo5ODg0Nzk2MjU.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140527T202423Z\r' +
+          '\nSTATUS:needsAction\r' +
+          "\nSUMMARY:'organise' Pink Floyd box set (id3 tags)\r" +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo5ODg0Nzk2MjU\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo5ODg0Nzk2MjU\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo5ODg0Nzk2MjU"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNjYxOTcyMzI.ics',
+          props: [Object]
+        },
+        etag: '"09d9e627c7de996b833b71581b630156"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNjYxOTcyMzI.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20130705T080141Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:mobfox publisher id: ' +
+          '34cddd5542708ab029399a2541cdb070\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNjYxOTcyMzI\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNjYxOTcyMzI\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNjYxOTcyMzI"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozNTg2MTY5NDQ.ics',
+          props: [Object]
+        },
+        etag: '"c0d81a9678c917b40224aa2f57ce5b8d"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozNTg2MTY5NDQ.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20161121T220213Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:check InMobi account\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozNTg2MTY5NDQ\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozNTg2MTY5NDQ\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozNTg2MTY5NDQ"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo5ODAzMjcyNDI.ics',
+          props: [Object]
+        },
+        etag: '"e351f447cdb4152c3c50afc3516b5620"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo5ODAzMjcyNDI.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20181213T090135Z\r' +
+          '\nLAST-MODIFIED:20181213T082953Z\r' +
+          '\nSEQUENCE:1\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:static site for whichgreentea.com on vps\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo5ODAzMjcyNDI\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/658444be-29b7-4694-a792-2b14e0914551.ics',
+          props: [Object]
+        },
+        etag: '"aa132c58a1a0f64282c54aeb2b9f9bb4"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/658444be-29b7-4694-a792-2b14e0914551.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nCOMPLETED:20190324T090745Z\r' +
+          '\nCREATED:20190211T171555Z\r' +
+          '\nDTSTAMP:20190324T090812Z\r' +
+          '\nLAST-MODIFIED:20190324T090745Z\r' +
+          '\nPERCENT-COMPLETE:100\r' +
+          '\nSEQUENCE:1\r' +
+          '\nSTATUS:COMPLETED\r' +
+          '\nSUMMARY:Find alternative PVR sw\r' +
+          '\nUID:658444be-29b7-4694-a792-2b14e0914551\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTkyODA5MDEw.ics',
+          props: [Object]
+        },
+        etag: '"c71953d6487547dd3712b37c33a80520"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTkyODA5MDEw.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140527T202417Z\r' +
+          '\nSTATUS:needsAction\r' +
+          "\nSUMMARY:build 'portfolio' page\r" +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTkyODA5MDEw\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTkyODA5MDEw\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTkyODA5MDEw"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMjMyODI4ODUz.ics',
+          props: [Object]
+        },
+        etag: '"9b61d50ed43bdddb66131fb6013a4948"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMjMyODI4ODUz.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20150913T104146Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:Zero-K / Spring TA\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMjMyODI4ODUz\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMjMyODI4ODUz\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMjMyODI4ODUz"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyMg.ics',
+          props: [Object]
+        },
+        etag: '"60d23aa5b92ed5e4e47d388854238e23"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyMg.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20130705T075724Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:hundredpushups.com\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyMg\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyMg\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyMg"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/3a704191-bf83-4016-aec9-c103f9f7bdd0.ics',
+          props: [Object]
+        },
+        etag: '"e93b2558c4fd0f9b0d2a31f32cec62b1"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/3a704191-bf83-4016-aec9-c103f9f7bdd0.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nCREATED:20181104T212001Z\r' +
+          '\nDTSTAMP:20181104T212004Z\r' +
+          '\nLAST-MODIFIED:20181104T212001Z\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:revisit old markdown wiki pages\r' +
+          '\nUID:3a704191-bf83-4016-aec9-c103f9f7bdd0\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxOTEyNDg2NDQy.ics',
+          props: [Object]
+        },
+        etag: '"e6bc0737880d92e3b7094b1d7ce81184"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxOTEyNDg2NDQy.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20160103T112833Z\r' +
+          '\nRELATED-TO:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyMTQ2MTIyMTA0\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:antique map wp theme\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxOTEyNDg2NDQy\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxOTEyNDg2NDQy\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxOTEyNDg2NDQy"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyMTQ2MTIyMTA0.ics',
+          props: [Object]
+        },
+        etag: '"b3cf7987f32bc772ebc353047290426c"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyMTQ2MTIyMTA0.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20181225T102630Z\r' +
+          '\nLAST-MODIFIED:20181220T125157Z\r' +
+          '\nSEQUENCE:2\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:WP theme ideas\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyMTQ2MTIyMTA0\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDk1NzY4MzQ5.ics',
+          props: [Object]
+        },
+        etag: '"53610cc8774d17025e57728b6744df64"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDk1NzY4MzQ5.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140527T202417Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:Vector map tiles on phone\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDk1NzY4MzQ5\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDk1NzY4MzQ5\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDk1NzY4MzQ5"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozODg3MzAyNDE.ics',
+          props: [Object]
+        },
+        etag: '"9707f709cfa475e110298d53f094c33b"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozODg3MzAyNDE.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140527T202412Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:Vanilla (site)\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozODg3MzAyNDE\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozODg3MzAyNDE\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozODg3MzAyNDE"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyNDkxMzY4NDI.ics',
+          props: [Object]
+        },
+        etag: '"77d01ba14c33a4d519ee3a462ebc0b44"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyNDkxMzY4NDI.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140630T080324Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:improve rep across SO network\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyNDkxMzY4NDI\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyNDkxMzY4NDI\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyNDkxMzY4NDI"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo4NjIyNjIzNTc.ics',
+          props: [Object]
+        },
+        etag: '"8a5a45264650be9d846b79c257e68d29"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo4NjIyNjIzNTc.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20181213T090136Z\r' +
+          '\nLAST-MODIFIED:20181213T082909Z\r' +
+          '\nSEQUENCE:1\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:remove duplicate jquery includes\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo4NjIyNjIzNTc\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNTU2OTU2NzA5.ics',
+          props: [Object]
+        },
+        etag: '"ac16161bb90cce5b1a7d4bcd9cf6420e"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNTU2OTU2NzA5.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140505T154257Z\r' +
+          '\nRELATED-TO:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo4OTkwMTY4MjM\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:check GA dashboard\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNTU2OTU2NzA5\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNTU2OTU2NzA5\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNTU2OTU2NzA5"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNzM4OTE0OTM.ics',
+          props: [Object]
+        },
+        etag: '"ea7cad882d62959b08ba65e7ddc00880"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNzM4OTE0OTM.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140204T113721Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:Twidere: contacts sync\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNzM4OTE0OTM\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNzM4OTE0OTM\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNzM4OTE0OTM"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNTg1NDE2Njkw.ics',
+          props: [Object]
+        },
+        etag: '"6ec82017e328f4e098e8a6d0665ca085"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNTg1NDE2Njkw.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140505T154257Z\r' +
+          '\nRELATED-TO:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo4OTkwMTY4MjM\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:improve GA tracking\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNTg1NDE2Njkw\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNTg1NDE2Njkw\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNTg1NDE2Njkw"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNjYwNjM1MTg2.ics',
+          props: [Object]
+        },
+        etag: '"5266255f23aac137311a96be8c33bb16"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNjYwNjM1MTg2.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20160103T112832Z\r' +
+          '\nRELATED-TO:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyMTQ2MTIyMTA0\r' +
+          '\nSTATUS:needsAction\r' +
+          "\nSUMMARY:'nautical' wp theme (eg antique pictures " +
+          'of ships\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNjYwNjM1MTg2\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNjYwNjM1MTg2\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNjYwNjM1MTg2"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/d06a8d4e-75eb-490a-9d75-f7cea9e87b57.ics',
+          props: [Object]
+        },
+        etag: '"252ce5507b229fedf41946ded4647fbb"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/d06a8d4e-75eb-490a-9d75-f7cea9e87b57.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nCREATED:20190106T114316Z\r' +
+          '\nDTSTAMP:20190107T194120Z\r' +
+          '\nLAST-MODIFIED:20190106T114316Z\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:Reclaim Ubuntu disk space on x230\r' +
+          '\nUID:d06a8d4e-75eb-490a-9d75-f7cea9e87b57\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo2MDM0MDgwMTY.ics',
+          props: [Object]
+        },
+        etag: '"b0cda4f0115fb8a2309995be3795e0d8"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo2MDM0MDgwMTY.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20181225T102630Z\r' +
+          '\nLAST-MODIFIED:20181220T125146Z\r' +
+          '\nSEQUENCE:1\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:WP plugin: embed hCard\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo2MDM0MDgwMTY\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxOTQxMzAzODc0.ics',
+          props: [Object]
+        },
+        etag: '"a77be8474dd43620e929fcdda4c2c3ef"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxOTQxMzAzODc0.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140302T210130Z\r' +
+          '\nRELATED-TO:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo1NTU4MTM3ODI\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:analytics for benmordue.co.uk\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxOTQxMzAzODc0\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxOTQxMzAzODc0\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxOTQxMzAzODc0"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxOTgwMTMyNDM.ics',
+          props: [Object]
+        },
+        etag: '"0921617f42a05a780c8bd9f2b949ed7d"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxOTgwMTMyNDM.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140527T202419Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:ofmerit.com\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxOTgwMTMyNDM\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxOTgwMTMyNDM\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxOTgwMTMyNDM"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo1ODM0NTU2ODc.ics',
+          props: [Object]
+        },
+        etag: '"744d86ca62cb5c09a0fd597ca806166a"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo1ODM0NTU2ODc.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20181213T090137Z\r' +
+          '\nLAST-MODIFIED:20181213T082838Z\r' +
+          '\nSEQUENCE:1\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:remove unneeded scripts\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo1ODM0NTU2ODc\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njoy.ics',
+          props: [Object]
+        },
+        etag: '"54fa351d9ba71d4d56f289ada0e00ab0"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njoy.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20130705T075724Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:look at Processing.org as a ' +
+          'visualisation tool\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njoy\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njoy\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njoy"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDk4ODkyOTQ0.ics',
+          props: [Object]
+        },
+        etag: '"9da3beeee484cd7d770d4c4379061477"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDk4ODkyOTQ0.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140505T210543Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:add Vagrantfile and dockerfile to github ' +
+          'projects where possible\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDk4ODkyOTQ0\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDk4ODkyOTQ0\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNDk4ODkyOTQ0"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyOTg3MTU0ODU.ics',
+          props: [Object]
+        },
+        etag: '"386a7d4d101b0b9d13ec904235435bf9"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyOTg3MTU0ODU.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20151126T130225Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:Lily vids to YouTube\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyOTg3MTU0ODU\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyOTg3MTU0ODU\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoyOTg3MTU0ODU"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/0ba7a916-360d-4bc7-a557-dcc290a20f40.ics',
+          props: [Object]
+        },
+        etag: '"96727d1dbb267ca2d765e019d3e546e6"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/0ba7a916-360d-4bc7-a557-dcc290a20f40.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nCREATED:20181106T212937Z\r' +
+          '\nDTSTAMP:20181106T214215Z\r' +
+          '\nLAST-MODIFIED:20181106T212937Z\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:https://news.ycombinator.com/item?id=15113729\r' +
+          '\nUID:0ba7a916-360d-4bc7-a557-dcc290a20f40\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo1MzAxNjI4MzE.ics',
+          props: [Object]
+        },
+        etag: '"902b2feb66f49579a024484c19cc0f8c"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo1MzAxNjI4MzE.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20131104T091757Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:publishing index-creation tools?\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo1MzAxNjI4MzE\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo1MzAxNjI4MzE\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo1MzAxNjI4MzE"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo2NTQxMzM2NTg.ics',
+          props: [Object]
+        },
+        etag: '"d76bab5dec9b824eae84649fa3da380c"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo2NTQxMzM2NTg.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20181225T102631Z\r' +
+          '\nLAST-MODIFIED:20181220T125208Z\r' +
+          '\nSEQUENCE:1\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:wp theme: illuminated manuscript\\; ' +
+          'Victorian decor\\; art deco\\; CR \r' +
+          '\n Mackintosh\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo2NTQxMzM2NTg\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo3MTc2NzQ3NTE.ics',
+          props: [Object]
+        },
+        etag: '"50a61953fa80170a9f020e29360b7105"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo3MTc2NzQ3NTE.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140527T202416Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:Readit as single page app\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo3MTc2NzQ3NTE\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo3MTc2NzQ3NTE\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo3MTc2NzQ3NTE"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTgzNzkyNTYw.ics',
+          props: [Object]
+        },
+        etag: '"29c42dca151742529ca5b03ed6adb4f7"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTgzNzkyNTYw.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140818T120706Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:App: populate phone contacts from ' +
+          'social...\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTgzNzkyNTYw\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTgzNzkyNTYw\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTgzNzkyNTYw"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/60ad7dc6-e1bc-4190-8bd0-69e6ddfc1116.ics',
+          props: [Object]
+        },
+        etag: '"c43982d974a8fbcc295fbc6cafed5732"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/60ad7dc6-e1bc-4190-8bd0-69e6ddfc1116.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nCREATED:20181105T192550Z\r' +
+          '\nDTSTAMP:20181105T192600Z\r' +
+          '\nLAST-MODIFIED:20181105T192550Z\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:Tinkercad\r' +
+          '\nUID:60ad7dc6-e1bc-4190-8bd0-69e6ddfc1116\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMDE0MzU5MTcz.ics',
+          props: [Object]
+        },
+        etag: '"e8f2746c69cb703bee10cfe978dc5d12"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMDE0MzU5MTcz.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20130705T075724Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:review my starred github projects\\; find ' +
+          'one to contribute to\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMDE0MzU5MTcz\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMDE0MzU5MTcz\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMDE0MzU5MTcz"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxODM2MTU3NzU5.ics',
+          props: [Object]
+        },
+        etag: '"f4bf8779d81f524400dca68c179c9a4b"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxODM2MTU3NzU5.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140505T154257Z\r' +
+          '\nRELATED-TO:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo4OTkwMTY4MjM\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:check montezuma style.css\\; load without ' +
+          'javascript\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxODM2MTU3NzU5\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxODM2MTU3NzU5\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxODM2MTU3NzU5"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNjAyMjEzMDEy.ics',
+          props: [Object]
+        },
+        etag: '"7e8b36b73571c6c235d9944fc6d17810"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNjAyMjEzMDEy.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20130711T174233Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:Android Tile Map Service\\; mbtiles ' +
+          'viewer\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNjAyMjEzMDEy\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNjAyMjEzMDEy\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxNjAyMjEzMDEy"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTAwNzMwMTU3.ics',
+          props: [Object]
+        },
+        etag: '"5e9a24fe5be07bdaff24ab0d49aa447a"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTAwNzMwMTU3.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140818T120215Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:^:9aW3Re (Apple)\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTAwNzMwMTU3\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTAwNzMwMTU3\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMTAwNzMwMTU3"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo1NTU4MTM3ODI.ics',
+          props: [Object]
+        },
+        etag: '"1096a232f6f6331c47dba8c0d9b4ec75"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo1NTU4MTM3ODI.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20140302T210129Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:websites\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo1NTU4MTM3ODI\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo1NTU4MTM3ODI\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo1NTU4MTM3ODI"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/95ab1289-7b2d-4fe3-82e5-a568f55493d9.ics',
+          props: [Object]
+        },
+        etag: '"a326c05add90507fbaf622653497305d"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/95ab1289-7b2d-4fe3-82e5-a568f55493d9.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nCREATED:20181105T205214Z\r' +
+          '\nDTSTAMP:20181106T194610Z\r' +
+          '\nLAST-MODIFIED:20181105T205214Z\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          '\nSUMMARY:Terraform-digitalocean-provider: no ' +
+          'support for droplet "features"\r' +
+          '\nUID:95ab1289-7b2d-4fe3-82e5-a568f55493d9\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo4OTkwMTY4MjM.ics',
+          props: [Object]
+        },
+        etag: '"b69c60613a769ba6da2caf69870ac746"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo4OTkwMTY4MjM.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nPRODID:+//IDN bitfire.at//ical4android\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20181213T090140Z\r' +
+          '\nLAST-MODIFIED:20181213T082922Z\r' +
+          '\nSEQUENCE:1\r' +
+          '\nSTATUS:NEEDS-ACTION\r' +
+          "\nSUMMARY:improve Ruth's website\r" +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo4OTkwMTY4MjM\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozNA.ics',
+          props: [Object]
+        },
+        etag: '"2ee2ee6ee07b8b1513a70d38f7f3dc24"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozNA.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20130705T075724Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:review audiofiles\\; transfer from paper to ' +
+          'Projectfiles wiki\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozNA\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozNA\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjozNA"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      },
+      CalendarObject {
+        data: {
+          href: '/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo0MzA4NDM3OTQ.ics',
+          props: [Object]
+        },
+        etag: '"b571062f2877106eee58dbf6dad93a42"',
+        url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo0MzA4NDM3OTQ.ics',
+        calendar: [Circular],
+        calendarData: 'BEGIN:VCALENDAR\r' +
+          '\nVERSION:2.0\r' +
+          '\nCALSCALE:GREGORIAN\r' +
+          '\nPRODID:-//scripted//EN\r' +
+          '\nBEGIN:VTODO\r' +
+          '\nDTSTAMP:20130705T075724Z\r' +
+          '\nSTATUS:needsAction\r' +
+          '\nSUMMARY:SICP (Python) -> github\r' +
+          '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo0MzA4NDM3OTQ\r' +
+          '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo0MzA4NDM3OTQ\r' +
+          '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+          '\n ' +
+          'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6Njo0MzA4NDM3OTQ"\r' +
+          '\nEND:VTODO\r' +
+          '\nEND:VCALENDAR\r' +
+          '\n'
+      }
+    ],
+    account: Account {
+      server: 'http://93.170.105.134:5232',
+      credentials: Credentials {
+        username: 'ben',
+        password: 'tester',
+        clientId: null,
+        clientSecret: null,
+        authorizationCode: null,
+        redirectUrl: null,
+        tokenUrl: null,
+        accessToken: null,
+        refreshToken: null,
+        expiration: null
+      },
+      rootUrl: 'http://93.170.105.134:5232/',
+      principalUrl: 'http://93.170.105.134:5232/ben/',
+      homeUrl: 'http://93.170.105.134:5232/ben/',
+      calendars: [
+        [Circular],
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"f781131765527d2d4acccdbc7bc1affe"',
+          description: undefined,
+          displayName: 'AddToCal',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/b212f890ba83987a9691068ee72f2dce',
+          url: 'http://93.170.105.134:5232/ben/f0b6fdc0-d129-11e8-9630-7e00a5a0c601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"c019cc39d2e8cf5dd4ffbd8ed30aa8af"',
+          description: undefined,
+          displayName: 'noodling',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/d429db47bfb45bf08bf8db2b85e8dcbb',
+          url: 'http://93.170.105.134:5232/ben/6a2afbe3-c5c0-4b34-a322-ddc313f3b88a/',
+          timezone: 'BEGIN:VCALENDAR\nBEGIN:VTIMEZONE\nTZID:Europe/London\n' +
+            'TZURL:http://tzurl.org/zoneinfo/Europe/London\n' +
+            'X-LIC-LOCATION:Europe/London\nBEGIN:DAYLIGHT\n' +
+            'TZOFFSETFROM:+0000\nTZOFFSETTO:+0100\nTZNAME:BST\n' +
+            'DTSTART:19810329T010000\n' +
+            'RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU\n' +
+            'END:DAYLIGHT\nBEGIN:STANDARD\nTZOFFSETFROM:+0100\n' +
+            'TZOFFSETTO:+0000\nTZNAME:GMT\n' +
+            'DTSTART:19961027T020000\n' +
+            'RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU\n' +
+            'END:STANDARD\nBEGIN:STANDARD\nTZOFFSETFROM:-000115\n' +
+            'TZOFFSETTO:+0000\nTZNAME:GMT\n' +
+            'DTSTART:18471201T000000\nRDATE:18471201T000000\n' +
+            'END:STANDARD\nBEGIN:DAYLIGHT\nTZOFFSETFROM:+0000\n' +
+            'TZOFFSETTO:+0100\nTZNAME:BST\n' +
+            'DTSTART:19160521T020000\nRDATE:19160521T020000\n' +
+            'RDATE:19170408T020000\nRDATE:19180324T020000\n' +
+            'RDATE:19190330T020000\nRDATE:19200328T020000\n' +
+            'RDATE:19210403T020000\nRDATE:19220326T020000\n' +
+            'RDATE:19230422T020000\nRDATE:19240413T020000\n' +
+            'RDATE:19250419T020000\nRDATE:19260418T020000\n' +
+            'RDATE:19270410T020000\nRDATE:19280422T020000\n' +
+            'RDATE:19290421T020000\nRDATE:19300413T020000\n' +
+            'RDATE:19310419T020000\nRDATE:19320417T020000\n' +
+            'RDATE:19330409T020000\nRDATE:19340422T020000\n' +
+            'RDATE:19350414T020000\nRDATE:19360419T020000\n' +
+            'RDATE:19370418T020000\nRDATE:19380410T020000\n' +
+            'RDATE:19390416T020000\nRDATE:19400225T020000\n' +
+            'RDATE:19460414T020000\nRDATE:19470316T020000\n' +
+            'RDATE:19480314T020000\nRDATE:19490403T020000\n' +
+            'RDATE:19500416T020000\nRDATE:19510415T020000\n' +
+            'RDATE:19520420T020000\nRDATE:19530419T020000\n' +
+            'RDATE:19540411T020000\nRDATE:19550417T020000\n' +
+            'RDATE:19560422T020000\nRDATE:19570414T020000\n' +
+            'RDATE:19580420T020000\nRDATE:19590419T020000\n' +
+            'RDATE:19600410T020000\nRDATE:19610326T020000\n' +
+            'RDATE:19620325T020000\nRDATE:19630331T020000\n' +
+            'RDATE:19640322T020000\nRDATE:19650321T020000\n' +
+            'RDATE:19660320T020000\nRDATE:19670319T020000\n' +
+            'RDATE:19680218T020000\nRDATE:19720319T020000\n' +
+            'RDATE:19730318T020000\nRDATE:19740317T020000\n' +
+            'RDATE:19750316T020000\nRDATE:19760321T020000\n' +
+            'RDATE:19770320T020000\nRDATE:19780319T020000\n' +
+            'RDATE:19790318T020000\nRDATE:19800316T020000\n' +
+            'END:DAYLIGHT\nBEGIN:STANDARD\nTZOFFSETFROM:+0100\n' +
+            'TZOFFSETTO:+0000\nTZNAME:GMT\n' +
+            'DTSTART:19161001T030000\nRDATE:19161001T030000\n' +
+            'RDATE:19170917T030000\nRDATE:19180930T030000\n' +
+            'RDATE:19190929T030000\nRDATE:19201025T030000\n' +
+            'RDATE:19211003T030000\nRDATE:19221008T030000\n' +
+            'RDATE:19230916T030000\nRDATE:19240921T030000\n' +
+            'RDATE:19251004T030000\nRDATE:19261003T030000\n' +
+            'RDATE:19271002T030000\nRDATE:19281007T030000\n' +
+            'RDATE:19291006T030000\nRDATE:19301005T030000\n' +
+            'RDATE:19311004T030000\nRDATE:19321002T030000\n' +
+            'RDATE:19331008T030000\nRDATE:19341007T030000\n' +
+            'RDATE:19351006T030000\nRDATE:19361004T030000\n' +
+            'RDATE:19371003T030000\nRDATE:19381002T030000\n' +
+            'RDATE:19391119T030000\nRDATE:19451007T030000\n' +
+            'RDATE:19461006T030000\nRDATE:19471102T030000\n' +
+            'RDATE:19481031T030000\nRDATE:19491030T030000\n' +
+            'RDATE:19501022T030000\nRDATE:19511021T030000\n' +
+            'RDATE:19521026T030000\nRDATE:19531004T030000\n' +
+            'RDATE:19541003T030000\nRDATE:19551002T030000\n' +
+            'RDATE:19561007T030000\nRDATE:19571006T030000\n' +
+            'RDATE:19581005T030000\nRDATE:19591004T030000\n' +
+            'RDATE:19601002T030000\nRDATE:19611029T030000\n' +
+            'RDATE:19621028T030000\nRDATE:19631027T030000\n' +
+            'RDATE:19641025T030000\nRDATE:19651024T030000\n' +
+            'RDATE:19661023T030000\nRDATE:19671029T030000\n' +
+            'RDATE:19711031T030000\nRDATE:19721029T030000\n' +
+            'RDATE:19731028T030000\nRDATE:19741027T030000\n' +
+            'RDATE:19751026T030000\nRDATE:19761024T030000\n' +
+            'RDATE:19771023T030000\nRDATE:19781029T030000\n' +
+            'RDATE:19791028T030000\nRDATE:19801026T030000\n' +
+            'RDATE:19811025T020000\nRDATE:19821024T020000\n' +
+            'RDATE:19831023T020000\nRDATE:19841028T020000\n' +
+            'RDATE:19851027T020000\nRDATE:19861026T020000\n' +
+            'RDATE:19871025T020000\nRDATE:19881023T020000\n' +
+            'RDATE:19891029T020000\nRDATE:19901028T020000\n' +
+            'RDATE:19911027T020000\nRDATE:19921025T020000\n' +
+            'RDATE:19931024T020000\nRDATE:19941023T020000\n' +
+            'RDATE:19951022T020000\nEND:STANDARD\nBEGIN:DAYLIGHT\n' +
+            'TZOFFSETFROM:+0100\nTZOFFSETTO:+0200\nTZNAME:BDST\n' +
+            'DTSTART:19410504T010000\nRDATE:19410504T010000\n' +
+            'RDATE:19420405T010000\nRDATE:19430404T010000\n' +
+            'RDATE:19440402T010000\nRDATE:19450402T010000\n' +
+            'RDATE:19470413T010000\nEND:DAYLIGHT\nBEGIN:DAYLIGHT\n' +
+            'TZOFFSETFROM:+0200\nTZOFFSETTO:+0100\nTZNAME:BST\n' +
+            'DTSTART:19410810T030000\nRDATE:19410810T030000\n' +
+            'RDATE:19420809T030000\nRDATE:19430815T030000\n' +
+            'RDATE:19440917T030000\nRDATE:19450715T030000\n' +
+            'RDATE:19470810T030000\nEND:DAYLIGHT\nBEGIN:STANDARD\n' +
+            'TZOFFSETFROM:+0100\nTZOFFSETTO:+0100\nTZNAME:BST\n' +
+            'DTSTART:19681026T230000\nRDATE:19681026T230000\n' +
+            'END:STANDARD\nBEGIN:STANDARD\nTZOFFSETFROM:+0000\n' +
+            'TZOFFSETTO:+0000\nTZNAME:GMT\n' +
+            'DTSTART:19960101T000000\nRDATE:19960101T000000\n' +
+            'END:STANDARD\nEND:VTIMEZONE\nEND:VCALENDAR\n',
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [],
+          account: [Circular],
+          ctag: '"3890408664f8c145efeb7725b3d9ce0e"',
+          description: undefined,
+          displayName: 'ben/36eaba54-ce4e-11e8-8dd9-0800271b0601',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/d41d8cd98f00b204e9800998ecf8427e',
+          url: 'http://93.170.105.134:5232/ben/36eaba54-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"9289e0fdc5185da021d2c65d8de03fd6"',
+          description: undefined,
+          displayName: 'Build',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/adeceb501b1d92dcfddb1a3218daa688',
+          url: 'http://93.170.105.134:5232/ben/2376eb00-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"68ea10884f6623d6588fed254ae5e98d"',
+          description: undefined,
+          displayName: 'Orkney',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/2ad7a9b3421f40c051e7a4ba17a54a39',
+          url: 'http://93.170.105.134:5232/ben/26649332-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"5d04022d555b3df42e42c4863e621aba"',
+          description: undefined,
+          displayName: 'Nb',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/a3b9a17cbc5f7c86ff8d2069e01c0ec3',
+          url: 'http://93.170.105.134:5232/ben/c7a4e98f-5e9b-3c81-3c1e-ceee4a781842/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [],
+          account: [Circular],
+          ctag: '"a4752a80c1d13d260566db8115abdf64"',
+          description: 'Collection of memories',
+          displayName: 'Journal',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/d41d8cd98f00b204e9800998ecf8427e',
+          url: 'http://93.170.105.134:5232/ben/58a97f31-76a6-785e-f2f6-81084a41cdcb/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"24a17349c7b9cc06e845adffb898f5d8"',
+          description: undefined,
+          displayName: 'ReadItInFull',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/2a50601de1f0a5a83b98d6bf6867b1f5',
+          url: 'http://93.170.105.134:5232/ben/20cc1a93-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"9f81e28d15ca155c34d5d90b26bdde1d"',
+          description: undefined,
+          displayName: 'Twit-Py',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/7783e7df8ac476603f80b13b4cbfeba7',
+          url: 'http://93.170.105.134:5232/ben/4aa9fa50-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"ba384e34d32c912f69605db8494f6807"',
+          description: undefined,
+          displayName: 'Garden',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/545ba1c2ef96aca16ea52dba10eb01fe',
+          url: 'http://93.170.105.134:5232/ben/3f32970c-d148-11e8-b319-7e00a5a0c601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"7b327405cb8cef8d6725079b4521e113"',
+          description: undefined,
+          displayName: 'Long-term',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/2ae9bec0905f2d8831abc25610f65cbf',
+          url: 'http://93.170.105.134:5232/ben/06bbd19d-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"7637f3c430a4490f1c7e85c404fd7cbb"',
+          description: undefined,
+          displayName: 'shopping',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/f3c0c58c3c1737a58d7233e3162825ff',
+          url: 'http://93.170.105.134:5232/ben/4da3940b-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"ac8fa8a928b140d6294e9da0159e1603"',
+          description: undefined,
+          displayName: 'Projects',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/d04581e98a35c16c8231008c9b6f06f4',
+          url: 'http://93.170.105.134:5232/ben/3e62cf24-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"a8a1ac4ff25244d772af4c8b90ec3544"',
+          description: undefined,
+          displayName: 'Seller',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/927d9830c59381f55529134e311a6de3',
+          url: 'http://93.170.105.134:5232/ben/3d6a6800-d148-11e8-9cc2-7e00a5a0c601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"ff71f3d028fd33260a2c1268775a78cb"',
+          description: undefined,
+          displayName: 'SpringfieldRd',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/a7c7989892a893ea463f3eef2e624165',
+          url: 'http://93.170.105.134:5232/ben/2d3246d0-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"922d655958b62c3f7547524d369af415"',
+          description: undefined,
+          displayName: 'lgm',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/547a598ef080f08ccc1531165d584f83',
+          url: 'http://93.170.105.134:5232/ben/4bd9630c-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"881e30a2d810174dfad16a84b1429c71"',
+          description: undefined,
+          displayName: 'Travel-holidays',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/cac83dd96c114b35a11a1d428eb3bd5a',
+          url: 'http://93.170.105.134:5232/ben/0bd1e3a6-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"ecee871c14f50be9214e39be3a8336e3"',
+          description: undefined,
+          displayName: 'Reading',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/6874eaece589983fd93aa706c6795839',
+          url: 'http://93.170.105.134:5232/ben/fd3d98b3-ce4d-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"3b9758cdcc87242c5ef961d2d2dc0ad2"',
+          description: undefined,
+          displayName: 'Ski notes',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/5b9038b6115b587d17e125d153b7c277',
+          url: 'http://93.170.105.134:5232/ben/48aba096-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [],
+          account: [Circular],
+          ctag: '"3fc076f50a8154a231e9c5d110065ac8"',
+          description: 'All',
+          displayName: 'Calendar',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/9758dfacd5ed0cdcfe62ef21b89085dd',
+          url: 'http://93.170.105.134:5232/ben/952d20c6-5d53-41f9-173e-1fa2808f7859/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"11c52cf2f4d4371d2984ed079a261eed"',
+          description: undefined,
+          displayName: 'R',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/c19c1224d75b2f15b30baf776b228d8c',
+          url: 'http://93.170.105.134:5232/ben/2abf5db6-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"fd727169ffddf4d9300d95ee90700a4c"',
+          description: undefined,
+          displayName: 'IKEA',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/4b4560f766bfc7947c53faf999d75145',
+          url: 'http://93.170.105.134:5232/ben/40c37405-d148-11e8-8bc8-7e00a5a0c601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"7fc5b80073bc8b6e568f770dd23f9765"',
+          description: undefined,
+          displayName: 'TV',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/2f8fd45c272c6eceb24b903085cde0a2',
+          url: 'http://93.170.105.134:5232/ben/2376eb01-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"9ff8667215f64f20a5e0b1ddcd6b8a6d"',
+          description: undefined,
+          displayName: 'Photo',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/438de4ed363cd1fbef5601ecee37aa89',
+          url: 'http://93.170.105.134:5232/ben/0a879022-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"be31da152860efb9c14ec20d1cc3b807"',
+          description: undefined,
+          displayName: 'vps',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/bf2cbd1832755635e32bd7630d1b61ec',
+          url: 'http://93.170.105.134:5232/ben/3135216c-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"74d22d1aa4eeb57934fc922350d049d0"',
+          description: undefined,
+          displayName: 'Christmas',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/514438664c1d7070c077278349147bb2',
+          url: 'http://93.170.105.134:5232/ben/08954eee-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"927b3c34580837e1e4bc5728cff23fa3"',
+          description: undefined,
+          displayName: 'Lily',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/25bb3ecaa68c922c11f1c1d62515ae08',
+          url: 'http://93.170.105.134:5232/ben/26649330-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"987df67299e28243770cdead0894ca1a"',
+          description: undefined,
+          displayName: 'Phone',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/40d447fb14df039571e2766ec621ca29',
+          url: 'http://93.170.105.134:5232/ben/06bbd19c-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"004261f90d2be21c3f9f410a7477d58f"',
+          description: undefined,
+          displayName: 'North Ron',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/c29d974bc0c2779b1ffb132cc657de2d',
+          url: 'http://93.170.105.134:5232/ben/0cd5b2aa-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"f7955473d8163b19b9caf4a8d57ab58b"',
+          description: undefined,
+          displayName: 'names',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/6903622e13231c4a928b3e9f489cc6a3',
+          url: 'http://93.170.105.134:5232/ben/400fb74c-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"cb1ecceb06d7efb6879dd42059a11609"',
+          description: undefined,
+          displayName: 'Wacky ideas',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/c31bc0d8fd2bf7d3f3eed8ef39c62fcd',
+          url: 'http://93.170.105.134:5232/ben/0cd5b2ab-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"8c0ebde6c0204f6ef42206e23b8d4d52"',
+          description: undefined,
+          displayName: 'Food',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/781ac9ffbca025c09803542428b050c1',
+          url: 'http://93.170.105.134:5232/ben/ff1296b0-ce4d-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"c48c29ed70028eea72eedce66eec0388"',
+          description: undefined,
+          displayName: 'blackbox',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/a71ac8f5807149166b64069ef4057dda',
+          url: 'http://93.170.105.134:5232/ben/3bb8bf7c-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"e555e495980c8b5c8226172333918d57"',
+          description: undefined,
+          displayName: '(e)Music',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/c8078fc14d055fbeb5d789365cc74009',
+          url: 'http://93.170.105.134:5232/ben/34850883-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"ac4ff28fd86b4433abc803f22f40685f"',
+          description: undefined,
+          displayName: 'Car',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/ca6b861d9d50d983cff8ff8b805b1625',
+          url: 'http://93.170.105.134:5232/ben/34850882-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"7eb2164777ac010a71c5b155caa57a63"',
+          description: undefined,
+          displayName: 'TODO',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/f8277be486b50bcbdbef5990152db013',
+          url: 'http://93.170.105.134:5232/ben/4f880062-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"fdf12827808a27f0b9299f9059d8c044"',
+          description: undefined,
+          displayName: 'Speakers',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/92c8887491c834a03255d82876a1f9a9',
+          url: 'http://93.170.105.134:5232/ben/ff8cbb8f-d2bf-11e8-a331-7e00a5a0c601/',
+          timezone: undefined,
+          components: [Array]
+        },
+        Calendar {
+          data: [Object],
+          objects: [Array],
+          account: [Circular],
+          ctag: '"bd8576e0ae6c5d04de6324d43adf660e"',
+          description: undefined,
+          displayName: 'job',
+          reports: [Array],
+          resourcetype: [Array],
+          syncToken: 'http://radicale.org/ns/sync/dbad4d86e6ebf632305d3642f2949089',
+          url: 'http://93.170.105.134:5232/ben/27f33706-ce4e-11e8-8dd9-0800271b0601/',
+          timezone: undefined,
+          components: [Array]
+        }
+      ],
+      addressBooks: null
+    },
+    ctag: '"2588c33869ee21c9a01e9bae31c2bf78"',
+    description: undefined,
+    displayName: 'Laptop',
+    reports: [
+      'expand-property',
+      'principal-search-property-set',
+      'principal-property-search'
+    ],
+    resourcetype: [
+      'calendar',
+      'collection'
+    ],
+    syncToken: 'http://radicale.org/ns/sync/c72f3e765c57dcab89746004fb8c308f',
+    url: 'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/',
+    timezone: undefined,
+    components: [
+      'VTODO'
+    ]
+  },
+  calendarData: 'BEGIN:VCALENDAR\r' +
+    '\nVERSION:2.0\r' +
+    '\nCALSCALE:GREGORIAN\r' +
+    '\nPRODID:-//scripted//EN\r' +
+    '\nBEGIN:VTODO\r' +
+    '\nDTSTAMP:20161121T220214Z\r' +
+    '\nSTATUS:needsAction\r' +
+    '\nSUMMARY:digitize VHS tapes for M+D\r' +
+    '\nUID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMA\r' +
+    '\nX-GTASKS-ID:MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMA\r' +
+    '\nX-GTASKS-SELF-LINK:"https://www.googleapis.com/tasks/v1/lists/MDE2Mzk4NDEwM\r' +
+    '\n ' +
+    'TU0MTgxMDE4Mjg6Njow/tasks/MDE2Mzk4NDEwMTU0MTgxMDE4Mjg6NjoxMA"\r' +
+    '\nEND:VTODO\r' +
+    '\nEND:VCALENDAR\r' +
+    '\n'
+}

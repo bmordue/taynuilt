@@ -1,0 +1,605 @@
+Account {
+  server: 'http://93.170.105.134:5232',
+  credentials:
+   Credentials {
+     username: 'ben',
+     password: 'tester',
+     clientId: null,
+     clientSecret: null,
+     authorizationCode: null,
+     redirectUrl: null,
+     tokenUrl: null,
+     accessToken: null,
+     refreshToken: null,
+     expiration: null },
+  rootUrl: 'http://93.170.105.134:5232/',
+  principalUrl: 'http://93.170.105.134:5232/ben/',
+  homeUrl: 'http://93.170.105.134:5232/ben/',
+  calendars:
+   [ Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"2588c33869ee21c9a01e9bae31c2bf78"',
+       description: undefined,
+       displayName: 'Laptop',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/c72f3e765c57dcab89746004fb8c308f',
+       url:
+        'http://93.170.105.134:5232/ben/400fb74d-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"f781131765527d2d4acccdbc7bc1affe"',
+       description: undefined,
+       displayName: 'AddToCal',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/b212f890ba83987a9691068ee72f2dce',
+       url:
+        'http://93.170.105.134:5232/ben/f0b6fdc0-d129-11e8-9630-7e00a5a0c601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"c019cc39d2e8cf5dd4ffbd8ed30aa8af"',
+       description: undefined,
+       displayName: 'noodling',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/d429db47bfb45bf08bf8db2b85e8dcbb',
+       url:
+        'http://93.170.105.134:5232/ben/6a2afbe3-c5c0-4b34-a322-ddc313f3b88a/',
+       timezone:
+        'BEGIN:VCALENDAR\nBEGIN:VTIMEZONE\nTZID:Europe/London\nTZURL:http://tzurl.org/zoneinfo/Europe/London\nX-LIC-LOCATION:Europe/London\nBEGIN:DAYLIGHT\nTZOFFSETFROM:+0000\nTZOFFSETTO:+0100\nTZNAME:BST\nDTSTART:19810329T010000\nRRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU\nEND:DAYLIGHT\nBEGIN:STANDARD\nTZOFFSETFROM:+0100\nTZOFFSETTO:+0000\nTZNAME:GMT\nDTSTART:19961027T020000\nRRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU\nEND:STANDARD\nBEGIN:STANDARD\nTZOFFSETFROM:-000115\nTZOFFSETTO:+0000\nTZNAME:GMT\nDTSTART:18471201T000000\nRDATE:18471201T000000\nEND:STANDARD\nBEGIN:DAYLIGHT\nTZOFFSETFROM:+0000\nTZOFFSETTO:+0100\nTZNAME:BST\nDTSTART:19160521T020000\nRDATE:19160521T020000\nRDATE:19170408T020000\nRDATE:19180324T020000\nRDATE:19190330T020000\nRDATE:19200328T020000\nRDATE:19210403T020000\nRDATE:19220326T020000\nRDATE:19230422T020000\nRDATE:19240413T020000\nRDATE:19250419T020000\nRDATE:19260418T020000\nRDATE:19270410T020000\nRDATE:19280422T020000\nRDATE:19290421T020000\nRDATE:19300413T020000\nRDATE:19310419T020000\nRDATE:19320417T020000\nRDATE:19330409T020000\nRDATE:19340422T020000\nRDATE:19350414T020000\nRDATE:19360419T020000\nRDATE:19370418T020000\nRDATE:19380410T020000\nRDATE:19390416T020000\nRDATE:19400225T020000\nRDATE:19460414T020000\nRDATE:19470316T020000\nRDATE:19480314T020000\nRDATE:19490403T020000\nRDATE:19500416T020000\nRDATE:19510415T020000\nRDATE:19520420T020000\nRDATE:19530419T020000\nRDATE:19540411T020000\nRDATE:19550417T020000\nRDATE:19560422T020000\nRDATE:19570414T020000\nRDATE:19580420T020000\nRDATE:19590419T020000\nRDATE:19600410T020000\nRDATE:19610326T020000\nRDATE:19620325T020000\nRDATE:19630331T020000\nRDATE:19640322T020000\nRDATE:19650321T020000\nRDATE:19660320T020000\nRDATE:19670319T020000\nRDATE:19680218T020000\nRDATE:19720319T020000\nRDATE:19730318T020000\nRDATE:19740317T020000\nRDATE:19750316T020000\nRDATE:19760321T020000\nRDATE:19770320T020000\nRDATE:19780319T020000\nRDATE:19790318T020000\nRDATE:19800316T020000\nEND:DAYLIGHT\nBEGIN:STANDARD\nTZOFFSETFROM:+0100\nTZOFFSETTO:+0000\nTZNAME:GMT\nDTSTART:19161001T030000\nRDATE:19161001T030000\nRDATE:19170917T030000\nRDATE:19180930T030000\nRDATE:19190929T030000\nRDATE:19201025T030000\nRDATE:19211003T030000\nRDATE:19221008T030000\nRDATE:19230916T030000\nRDATE:19240921T030000\nRDATE:19251004T030000\nRDATE:19261003T030000\nRDATE:19271002T030000\nRDATE:19281007T030000\nRDATE:19291006T030000\nRDATE:19301005T030000\nRDATE:19311004T030000\nRDATE:19321002T030000\nRDATE:19331008T030000\nRDATE:19341007T030000\nRDATE:19351006T030000\nRDATE:19361004T030000\nRDATE:19371003T030000\nRDATE:19381002T030000\nRDATE:19391119T030000\nRDATE:19451007T030000\nRDATE:19461006T030000\nRDATE:19471102T030000\nRDATE:19481031T030000\nRDATE:19491030T030000\nRDATE:19501022T030000\nRDATE:19511021T030000\nRDATE:19521026T030000\nRDATE:19531004T030000\nRDATE:19541003T030000\nRDATE:19551002T030000\nRDATE:19561007T030000\nRDATE:19571006T030000\nRDATE:19581005T030000\nRDATE:19591004T030000\nRDATE:19601002T030000\nRDATE:19611029T030000\nRDATE:19621028T030000\nRDATE:19631027T030000\nRDATE:19641025T030000\nRDATE:19651024T030000\nRDATE:19661023T030000\nRDATE:19671029T030000\nRDATE:19711031T030000\nRDATE:19721029T030000\nRDATE:19731028T030000\nRDATE:19741027T030000\nRDATE:19751026T030000\nRDATE:19761024T030000\nRDATE:19771023T030000\nRDATE:19781029T030000\nRDATE:19791028T030000\nRDATE:19801026T030000\nRDATE:19811025T020000\nRDATE:19821024T020000\nRDATE:19831023T020000\nRDATE:19841028T020000\nRDATE:19851027T020000\nRDATE:19861026T020000\nRDATE:19871025T020000\nRDATE:19881023T020000\nRDATE:19891029T020000\nRDATE:19901028T020000\nRDATE:19911027T020000\nRDATE:19921025T020000\nRDATE:19931024T020000\nRDATE:19941023T020000\nRDATE:19951022T020000\nEND:STANDARD\nBEGIN:DAYLIGHT\nTZOFFSETFROM:+0100\nTZOFFSETTO:+0200\nTZNAME:BDST\nDTSTART:19410504T010000\nRDATE:19410504T010000\nRDATE:19420405T010000\nRDATE:19430404T010000\nRDATE:19440402T010000\nRDATE:19450402T010000\nRDATE:19470413T010000\nEND:DAYLIGHT\nBEGIN:DAYLIGHT\nTZOFFSETFROM:+0200\nTZOFFSETTO:+0100\nTZNAME:BST\nDTSTART:19410810T030000\nRDATE:19410810T030000\nRDATE:19420809T030000\nRDATE:19430815T030000\nRDATE:19440917T030000\nRDATE:19450715T030000\nRDATE:19470810T030000\nEND:DAYLIGHT\nBEGIN:STANDARD\nTZOFFSETFROM:+0100\nTZOFFSETTO:+0100\nTZNAME:BST\nDTSTART:19681026T230000\nRDATE:19681026T230000\nEND:STANDARD\nBEGIN:STANDARD\nTZOFFSETFROM:+0000\nTZOFFSETTO:+0000\nTZNAME:GMT\nDTSTART:19960101T000000\nRDATE:19960101T000000\nEND:STANDARD\nEND:VTIMEZONE\nEND:VCALENDAR\n',
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [],
+       account: [Circular],
+       ctag: '"3890408664f8c145efeb7725b3d9ce0e"',
+       description: undefined,
+       displayName: 'ben/36eaba54-ce4e-11e8-8dd9-0800271b0601',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/d41d8cd98f00b204e9800998ecf8427e',
+       url:
+        'http://93.170.105.134:5232/ben/36eaba54-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"9289e0fdc5185da021d2c65d8de03fd6"',
+       description: undefined,
+       displayName: 'Build',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/adeceb501b1d92dcfddb1a3218daa688',
+       url:
+        'http://93.170.105.134:5232/ben/2376eb00-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"68ea10884f6623d6588fed254ae5e98d"',
+       description: undefined,
+       displayName: 'Orkney',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/2ad7a9b3421f40c051e7a4ba17a54a39',
+       url:
+        'http://93.170.105.134:5232/ben/26649332-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"5d04022d555b3df42e42c4863e621aba"',
+       description: undefined,
+       displayName: 'Nb',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/a3b9a17cbc5f7c86ff8d2069e01c0ec3',
+       url:
+        'http://93.170.105.134:5232/ben/c7a4e98f-5e9b-3c81-3c1e-ceee4a781842/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [],
+       account: [Circular],
+       ctag: '"a4752a80c1d13d260566db8115abdf64"',
+       description: 'Collection of memories',
+       displayName: 'Journal',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/d41d8cd98f00b204e9800998ecf8427e',
+       url:
+        'http://93.170.105.134:5232/ben/58a97f31-76a6-785e-f2f6-81084a41cdcb/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"24a17349c7b9cc06e845adffb898f5d8"',
+       description: undefined,
+       displayName: 'ReadItInFull',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/2a50601de1f0a5a83b98d6bf6867b1f5',
+       url:
+        'http://93.170.105.134:5232/ben/20cc1a93-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"9f81e28d15ca155c34d5d90b26bdde1d"',
+       description: undefined,
+       displayName: 'Twit-Py',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/7783e7df8ac476603f80b13b4cbfeba7',
+       url:
+        'http://93.170.105.134:5232/ben/4aa9fa50-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"ba384e34d32c912f69605db8494f6807"',
+       description: undefined,
+       displayName: 'Garden',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/545ba1c2ef96aca16ea52dba10eb01fe',
+       url:
+        'http://93.170.105.134:5232/ben/3f32970c-d148-11e8-b319-7e00a5a0c601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"7b327405cb8cef8d6725079b4521e113"',
+       description: undefined,
+       displayName: 'Long-term',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/2ae9bec0905f2d8831abc25610f65cbf',
+       url:
+        'http://93.170.105.134:5232/ben/06bbd19d-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"7637f3c430a4490f1c7e85c404fd7cbb"',
+       description: undefined,
+       displayName: 'shopping',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/f3c0c58c3c1737a58d7233e3162825ff',
+       url:
+        'http://93.170.105.134:5232/ben/4da3940b-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"ac8fa8a928b140d6294e9da0159e1603"',
+       description: undefined,
+       displayName: 'Projects',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/d04581e98a35c16c8231008c9b6f06f4',
+       url:
+        'http://93.170.105.134:5232/ben/3e62cf24-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"a8a1ac4ff25244d772af4c8b90ec3544"',
+       description: undefined,
+       displayName: 'Seller',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/927d9830c59381f55529134e311a6de3',
+       url:
+        'http://93.170.105.134:5232/ben/3d6a6800-d148-11e8-9cc2-7e00a5a0c601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"ff71f3d028fd33260a2c1268775a78cb"',
+       description: undefined,
+       displayName: 'SpringfieldRd',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/a7c7989892a893ea463f3eef2e624165',
+       url:
+        'http://93.170.105.134:5232/ben/2d3246d0-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"922d655958b62c3f7547524d369af415"',
+       description: undefined,
+       displayName: 'lgm',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/547a598ef080f08ccc1531165d584f83',
+       url:
+        'http://93.170.105.134:5232/ben/4bd9630c-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"881e30a2d810174dfad16a84b1429c71"',
+       description: undefined,
+       displayName: 'Travel-holidays',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/cac83dd96c114b35a11a1d428eb3bd5a',
+       url:
+        'http://93.170.105.134:5232/ben/0bd1e3a6-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"ecee871c14f50be9214e39be3a8336e3"',
+       description: undefined,
+       displayName: 'Reading',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/6874eaece589983fd93aa706c6795839',
+       url:
+        'http://93.170.105.134:5232/ben/fd3d98b3-ce4d-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"3b9758cdcc87242c5ef961d2d2dc0ad2"',
+       description: undefined,
+       displayName: 'Ski notes',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/5b9038b6115b587d17e125d153b7c277',
+       url:
+        'http://93.170.105.134:5232/ben/48aba096-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [],
+       account: [Circular],
+       ctag: '"3fc076f50a8154a231e9c5d110065ac8"',
+       description: 'All',
+       displayName: 'Calendar',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/9758dfacd5ed0cdcfe62ef21b89085dd',
+       url:
+        'http://93.170.105.134:5232/ben/952d20c6-5d53-41f9-173e-1fa2808f7859/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"11c52cf2f4d4371d2984ed079a261eed"',
+       description: undefined,
+       displayName: 'R',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/c19c1224d75b2f15b30baf776b228d8c',
+       url:
+        'http://93.170.105.134:5232/ben/2abf5db6-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"fd727169ffddf4d9300d95ee90700a4c"',
+       description: undefined,
+       displayName: 'IKEA',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/4b4560f766bfc7947c53faf999d75145',
+       url:
+        'http://93.170.105.134:5232/ben/40c37405-d148-11e8-8bc8-7e00a5a0c601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"7fc5b80073bc8b6e568f770dd23f9765"',
+       description: undefined,
+       displayName: 'TV',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/2f8fd45c272c6eceb24b903085cde0a2',
+       url:
+        'http://93.170.105.134:5232/ben/2376eb01-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"9ff8667215f64f20a5e0b1ddcd6b8a6d"',
+       description: undefined,
+       displayName: 'Photo',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/438de4ed363cd1fbef5601ecee37aa89',
+       url:
+        'http://93.170.105.134:5232/ben/0a879022-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"be31da152860efb9c14ec20d1cc3b807"',
+       description: undefined,
+       displayName: 'vps',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/bf2cbd1832755635e32bd7630d1b61ec',
+       url:
+        'http://93.170.105.134:5232/ben/3135216c-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"74d22d1aa4eeb57934fc922350d049d0"',
+       description: undefined,
+       displayName: 'Christmas',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/514438664c1d7070c077278349147bb2',
+       url:
+        'http://93.170.105.134:5232/ben/08954eee-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"927b3c34580837e1e4bc5728cff23fa3"',
+       description: undefined,
+       displayName: 'Lily',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/25bb3ecaa68c922c11f1c1d62515ae08',
+       url:
+        'http://93.170.105.134:5232/ben/26649330-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"987df67299e28243770cdead0894ca1a"',
+       description: undefined,
+       displayName: 'Phone',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/40d447fb14df039571e2766ec621ca29',
+       url:
+        'http://93.170.105.134:5232/ben/06bbd19c-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"004261f90d2be21c3f9f410a7477d58f"',
+       description: undefined,
+       displayName: 'North Ron',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/c29d974bc0c2779b1ffb132cc657de2d',
+       url:
+        'http://93.170.105.134:5232/ben/0cd5b2aa-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"f7955473d8163b19b9caf4a8d57ab58b"',
+       description: undefined,
+       displayName: 'names',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/6903622e13231c4a928b3e9f489cc6a3',
+       url:
+        'http://93.170.105.134:5232/ben/400fb74c-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"cb1ecceb06d7efb6879dd42059a11609"',
+       description: undefined,
+       displayName: 'Wacky ideas',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/c31bc0d8fd2bf7d3f3eed8ef39c62fcd',
+       url:
+        'http://93.170.105.134:5232/ben/0cd5b2ab-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"8c0ebde6c0204f6ef42206e23b8d4d52"',
+       description: undefined,
+       displayName: 'Food',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/781ac9ffbca025c09803542428b050c1',
+       url:
+        'http://93.170.105.134:5232/ben/ff1296b0-ce4d-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"c48c29ed70028eea72eedce66eec0388"',
+       description: undefined,
+       displayName: 'blackbox',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/a71ac8f5807149166b64069ef4057dda',
+       url:
+        'http://93.170.105.134:5232/ben/3bb8bf7c-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"e555e495980c8b5c8226172333918d57"',
+       description: undefined,
+       displayName: '(e)Music',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/c8078fc14d055fbeb5d789365cc74009',
+       url:
+        'http://93.170.105.134:5232/ben/34850883-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"ac4ff28fd86b4433abc803f22f40685f"',
+       description: undefined,
+       displayName: 'Car',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/ca6b861d9d50d983cff8ff8b805b1625',
+       url:
+        'http://93.170.105.134:5232/ben/34850882-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"7eb2164777ac010a71c5b155caa57a63"',
+       description: undefined,
+       displayName: 'TODO',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/f8277be486b50bcbdbef5990152db013',
+       url:
+        'http://93.170.105.134:5232/ben/4f880062-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"fdf12827808a27f0b9299f9059d8c044"',
+       description: undefined,
+       displayName: 'Speakers',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/92c8887491c834a03255d82876a1f9a9',
+       url:
+        'http://93.170.105.134:5232/ben/ff8cbb8f-d2bf-11e8-a331-7e00a5a0c601/',
+       timezone: undefined,
+       components: [Array] },
+     Calendar {
+       data: [Object],
+       objects: [Array],
+       account: [Circular],
+       ctag: '"bd8576e0ae6c5d04de6324d43adf660e"',
+       description: undefined,
+       displayName: 'job',
+       reports: [Array],
+       resourcetype: [Array],
+       syncToken:
+        'http://radicale.org/ns/sync/dbad4d86e6ebf632305d3642f2949089',
+       url:
+        'http://93.170.105.134:5232/ben/27f33706-ce4e-11e8-8dd9-0800271b0601/',
+       timezone: undefined,
+       components: [Array] } ],
+  addressBooks: null }
