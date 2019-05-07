@@ -2,18 +2,21 @@ const fs = require('fs');
 const util = require('util');
 
 function calObjectFromString(calData) {
-	var lines = calData.split('\n\r');
+	calData = calData.replace('\r','');
+	var lines = calData.split('\n');
 	var parsedData = {'IGNORED': 'ignored'};
-	var latest = 'IGNORED';
+	var previousKey = 'IGNORED';
 	var re = /^[a-zA-Z].*:.*/;
-	for (int i = 0; i < lines.length; i++)
+	for (var i = 0; i < lines.length; i++)
 	{
-		var line = lines[0];
+		var line = lines[i];
 		if (line.match(re)) {
+//			console.log('Extracting key/value from: ' + line);
 			var tokens = line.split(':');
 			parsedData[tokens[0]] = tokens[1];
 			previousKey = tokens[0];
 		} else {
+//			console.log('Did not find a key in line: ' + line);
 			parsedData[previousKey] += tokens[1];
 		}
 	}
@@ -21,21 +24,25 @@ function calObjectFromString(calData) {
 	return parsedData;
 }
 
-function postFromCal(calStr) {
+function postFromCal(calStr, tagsStr) {
 	var calObj = calObjectFromString(calStr);
+//	return util.inspect(calObj); // TODO REMOVE!
 
-	return '---\r\n'
-		+ 'title: ' + calObj.SUMMARY + '\r\n'
-		+ 'layout: post' + '\r\n'
-		+ 'date: ' + formatDate(calObj.DTSTAMP) + '\r\n'
-		+ 'tags: [wacky]\r\n'
-		+ '---\r\n'
-		+ '## ' + calObj.SUMMARY + '\r\n\r\n'
-		+ calObj.DESCRIPTION + '\r\n'
+	var calStr = '---\n'
+		+ 'title: ' + calObj.SUMMARY + '\n'
+		+ 'layout: post' + '\n'
+		+ 'date: ' + formatDate(calObj.DTSTAMP) + '\n'
+		+ 'tags: ' + tagsStr + '\n'
+		+ '---\n'
+		+ '## ' + calObj.SUMMARY + '\n\n';
+		if (calObj.DESCRIPTION) {
+			calStr += calObj.DESCRIPTION + '\n';
+		}
+		return calStr;
 }
 
 function formatDate(dt) {
-	return util.format('%s-%s-%s %s:%s:%s', dt.slice(0,3), dt.slice(4,5), dt.slice(6,7), dt.slice(8,9), dt.slice(10,11), dt.slice(12,13);
+	return dt ? util.format('%s-%s-%s %s:%s:%s', dt.slice(0,3), dt.slice(4,5), dt.slice(6,7), dt.slice(8,9), dt.slice(10,11), dt.slice(12,13)) : '';
 }
 
 module.exports = {
@@ -43,7 +50,7 @@ module.exports = {
 		return new Promise((resolve, reject) => {
 //			console.log('Logging to file: ' + file + ' (' + ')');
 			var etag = calendarObject.data.props.getetag;
-			var file = 'dump_' + etag.slice(1,-1) + '.json';
+			var file = 'maps_' + etag.slice(1,-1) + '.md';
 			console.log('Logging to file: ' + file);
 			
 //			delete calendarObject.calendar;

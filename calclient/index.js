@@ -25,7 +25,8 @@ function processWackyIdeas(calendar) {
 //    console.log('BEFORE SYNC Calendar data for ' + calendar.displayName);
 //    console.log(calendar);
 
-    var actions = calendar.objects.map(postWriter.writePost); // array of promises for all items
+    var actions = calendar.objects.map(postWriter.writePost, '[maps]'); // array of promises for all items
+//    var actions = [postWriter.writePost(calendar.objects[0])];
     return Promise.all(actions);
 }
 
@@ -41,7 +42,7 @@ function processCalendar(calendar) {
       resolve(processWackyIdeas(calendar));
     }
     if (calendar.displayName === 'ben/36eaba54-ce4e-11e8-8dd9-0800271b0601') {
-      resolve(processMaps(calendar));
+      resolve(processWackyIdeas(calendar));
     }
     resolve('Skipped ' + calendar.displayName);
   });
