@@ -68,7 +68,7 @@ client.createAccount({
   var actions = account.calendars.map(processCalendar);
   return Promise.all(actions);
 })
-//.then(console.log)
+.then(console.log)
 .catch(function(err) {
   console.log(err);
   process.exit(1);
