@@ -38,3 +38,6 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/recipe-post.md
+- _posts/undermapped-unesco-world-heritage-sites.md
