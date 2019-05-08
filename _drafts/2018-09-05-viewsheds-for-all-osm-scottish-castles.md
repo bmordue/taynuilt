@@ -1,8 +1,10 @@
 ---
-title: Viewsheds for "all" (OSM) Scottish castles
+title: Viewsheds forScottish castles
 layout: post
-date: 2018-09-05 15:41:40
-tags: [maps]
+date: 2018-09-05T15:41:40.000+00:00
+tags:
+- maps
+
 ---
 ## Viewsheds for "all" (OSM) Scottish castles
 
