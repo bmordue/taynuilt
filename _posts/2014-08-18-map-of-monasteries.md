@@ -7,20 +7,18 @@ tags: [maps]
 
 ## map of monasteries
 
+Overpass API request examples:
 
-
-{% assign bbox = 53.78522001712094,-9.27685546875,58.74041594616937,1.85009765625 %}
-
-{% leaflet_map %}
+~~~
 node
   [amenity=monastery]
-  ({{bbox}});
+  (53.785,-9.27,58.740,1.850);
 out;
-{% endleaflet_map%}
+~~~
 
-{% leaflet_map %}
+~~~
 node
   [historic=monastery]
-  ({{bbox}});
+  (53.785,-9.27,58.740,1.850);
 out;
-{% endleaflet_map%}
+~~~
