@@ -1,6 +1,5 @@
-_site/
-.sass-cache/
-.DS_Store
-*/.DS_Store
+_site
+.sass-cache
+.jekyll-metadata
 vendor/
-calclient/node_modules
+calclient/node_modules/
