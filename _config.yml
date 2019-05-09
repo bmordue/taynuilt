@@ -2,6 +2,7 @@ title: pentland.ml
 short_title: pentland.ml
 baseurl:
 permalink: "/:path/"
+theme: minima
 defaults:
   - scope:
       path: ""
