@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Todo item plugins
+title: Todo item Jekyll plugin
 sub_heading: ''
 date: 
 tags: []
