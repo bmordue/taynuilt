@@ -39,4 +39,5 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/todo-item-plugins.md
 - _posts/recipe-post.md
