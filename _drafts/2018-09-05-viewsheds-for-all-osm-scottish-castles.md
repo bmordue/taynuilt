@@ -9,4 +9,4 @@ tags:
 ---
 ## Viewsheds for "all" (OSM) Scottish castles
 
-Small map centred on castle
+Small map centred on castle, shaded viewshed, sort by viewshed area
