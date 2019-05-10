@@ -8,3 +8,5 @@ tags:
 
 ---
 ## find viewpoints
+
+find viewpoints: correlate altitude (and view distance...) against roads, buildings
