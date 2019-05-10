@@ -6,3 +6,6 @@ tags: [maps]
 ---
 ## microbreweries of Britain
 
+
+osm wiki "Key:brewery" and "Brewery"
+check for UK licence register for brewers/distilleries
