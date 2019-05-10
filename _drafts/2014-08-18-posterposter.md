@@ -7,3 +7,5 @@ tags:
 
 ---
 ## Poster
+
+Poster: view of earth projected as a circle from POV of ten biggest cities; a variety of equally spaced random points.
