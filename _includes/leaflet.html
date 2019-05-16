@@ -1,0 +1,19 @@
+<div id="map" style="height: 200px;" />
+
+<script>
+var basemap = {
+  'OpenStreetMap': L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    'attribution': '&copy; <a href="https://osmlab.github.io/attribution-mark/copyright/?name={{ site.title }}">OpenStreetMap</a> contributors',
+    'minZoom': {{ include.zoom }},
+    'maxZoom': {{ include.zoom }}
+  })};
+
+var map = L.map('map', {
+  'center': [ {{ include.center_lat }}, {{ include.center_lon }}],
+  'zoom': {{ include.zoom }},
+  'layers': [basemap.OpenStreetMap]
+});
+map.scrollWheelZoom.disable();
+
+
+</script>
