@@ -6,12 +6,6 @@ tags: [maps]
 leaflet: true
 ---
 
-{% include leaflet.html %}
-
-## Leaflet map
-
-<div id="mapid"></div>
-
 ## map of monasteries
 
 Overpass API request examples:
