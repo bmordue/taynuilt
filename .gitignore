@@ -2,5 +2,6 @@ _site
 _staging
 .sass-cache
 .jekyll-metadata
+.jekyll-cache/
 vendor/
 calclient/node_modules/
