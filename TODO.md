@@ -2,3 +2,4 @@
 
 - Add infra step to pipeline, ie run terraform apply
 
+- Align local and CI builds!
