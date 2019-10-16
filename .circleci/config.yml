@@ -1,9 +1,7 @@
-defaults: &defaults
-  working_directory: ~/repo
 version: 2
 jobs:
   build:
-    <<: *defaults
+    working_directory: ~/repo
     docker:
       - image: circleci/ruby:2.5
     environment:
@@ -37,7 +35,7 @@ jobs:
           paths:
             - _site
   deploy:
-    <<: *defaults
+    defaults: &defaults
     docker:
       - image: circleci/python:3.6.3
     steps:
