@@ -1,4 +1,6 @@
-version: 2
+version: 2.1
+orbs:
+  aws-cli: circleci/aws-cli@0.1.16
 jobs:
   build:
     working_directory: ~/repo
@@ -36,14 +38,17 @@ jobs:
             - _site
   deploy:
     defaults: &defaults
-    docker:
-      - image: circleci/python:3.6.3
+    executor: aws-cli/default
+#    docker:
+#      - image: circleci/python:3.6.3
     steps:
       - attach_workspace:
           at: ./
-      - run:
-          name: Install AWS CLI
-          command: pip install awscli --upgrade --user
+      - aws-cli/setup:
+          profile-name: deployer
+#      - run:
+#          name: Install AWS CLI
+#          command: pip install awscli --upgrade --user
       - run:
           name: Upload to s3
           command: ~/.local/bin/aws s3 sync ./_site s3://$S3_BUCKET_NAME/ --delete --acl public-read
@@ -58,3 +63,4 @@ workflows:
           filters:
             branches:
               only: master
+          context: aws
