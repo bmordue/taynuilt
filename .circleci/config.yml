@@ -37,7 +37,17 @@ jobs:
           root: ./
           paths:
             - _site
-  deploy:
+  deploy-staging:
+    defaults: &defaults
+    executor: aws-cli/default
+    steps:
+      - attach_workspace:
+          at: ./
+      - aws-s3/sync:
+          from: _site
+          to: 's3://site-stg.pentland.ml/'
+          overwrite: true
+  deploy-live:
     defaults: &defaults
     executor: aws-cli/default
     steps:
@@ -52,9 +62,12 @@ workflows:
   test-deploy:
     jobs:
       - build
-      - deploy:
+      - deploy-staging:
           requires:
             - build
+      - deploy-live:
+          requires:
+            - deploy-staging
           filters:
             branches:
               only: master
