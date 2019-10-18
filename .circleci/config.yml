@@ -40,19 +40,9 @@ jobs:
   deploy:
     defaults: &defaults
     executor: aws-cli/default
-#    docker:
-#      - image: circleci/python:3.6.3
     steps:
       - attach_workspace:
           at: ./
-#      - aws-cli/setup:
-#          profile-name: deployer
-#      - run:
-#          name: Install AWS CLI
-#          command: pip install awscli --upgrade --user
-#      - run:
-#          name: Upload to s3
-#          command: ~/.local/bin/aws s3 sync ./_site s3://$S3_BUCKET_NAME/ --delete --acl public-read
       - aws-s3/sync:
           from: _site
           to: 's3://site.pentland.ml/'
@@ -65,7 +55,6 @@ workflows:
       - deploy:
           requires:
             - build
-#          filters:
-#            branches:
-#              only: master
-#          context: aws
+          filters:
+            branches:
+              only: master
