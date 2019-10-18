@@ -45,8 +45,8 @@ jobs:
     steps:
       - attach_workspace:
           at: ./
-      - aws-cli/setup:
-          profile-name: deployer
+#      - aws-cli/setup:
+#          profile-name: deployer
 #      - run:
 #          name: Install AWS CLI
 #          command: pip install awscli --upgrade --user
