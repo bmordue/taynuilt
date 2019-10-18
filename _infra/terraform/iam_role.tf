@@ -30,8 +30,10 @@ resource "aws_iam_policy" "policy" {
             "Effect": "Allow",
             "Action": "s3:*",
             "Resource": [
-                "${aws_s3_bucket.my_bucket.arn}",
-                "${aws_s3_bucket.my_bucket.arn}/*"
+                "${aws_s3_bucket.live_site_bucket.arn}",
+                "${aws_s3_bucket.live_site_bucket.arn}/*",
+                "${aws_s3_bucket.staging_site_bucket.arn}",
+                "${aws_s3_bucket.staging_site_bucket.arn}/*"
             ]
         }
     ]
