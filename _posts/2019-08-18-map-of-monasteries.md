@@ -12,6 +12,7 @@ Overpass API request examples:
 
 ~~~
 node
+  [out:json];
   [amenity=monastery]
   (53.785,-9.27,58.740,1.850);
 out;
@@ -19,6 +20,7 @@ out;
 
 ~~~
 node
+  [out:json];
   [historic=monastery]
   (53.785,-9.27,58.740,1.850);
 out;
